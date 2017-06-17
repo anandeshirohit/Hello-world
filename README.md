@@ -6,3 +6,7 @@ From Rohit
 Hello Kranti
 Hi Sukvinder 
 Hello java
+public static void main(String args[])
+{
+sop("hello world");
+}
